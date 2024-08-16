@@ -21,12 +21,12 @@ At CMU, I've delved deep into advanced courses such as Advanced Natural Language
 I hold a Bachelor’s degree in Information Technology from the National Institute of Technology, Karnataka (NITK), where I developed a strong foundation in the field of computer science and engineering.
 
 ### Professional Experience
-Prior to joining CMU, I spent three years as a Machine Learning Research Engineer in India, where I had the privilege of starting and leading the Conversational AI team at Kaleyra. In this role, I led the development of a scalable chatbot with advanced Natural Language Understanding (NLU) capabilities using Transformers, which now serves 10 million customers daily. My work also extended to engineering spam detection engines using BERT and optimizing models with ONNX for substantial improvements in latency and throughput.
+Prior to joining CMU, I spent three years as a Machine Learning Research Engineer in India, where I had the privilege of starting and leading the Conversational AI team at **Kaleyra**. In this role, I led the development of a scalable chatbot with advanced Natural Language Understanding (NLU) capabilities using Transformers, which now serves 10 million customers daily. My work also extended to engineering spam detection engines using BERT and optimizing models with ONNX for substantial improvements in latency and throughput.
 
-Most recently, I interned at Tesla's Autopilot division in Palo Alto, where I developed an **AI-Oncall ChatBot** that resolved 50% of user queries without human intervention, significantly reducing the workload on human engineers. I also enhanced the performance of Tesla’s Autopilot SDK build efficiency by improving caching logic, achieving a 100x reduction in download and extraction time.
+Most recently, I interned at **Tesla's Autopilot** division in Palo Alto, where I developed an **AI-Oncall ChatBot** that resolved 50% of user queries without human intervention, significantly reducing the workload on human engineers. I also enhanced the performance of Tesla’s Autopilot SDK build efficiency by improving caching logic, achieving a 100x reduction in download and extraction time.
 
-### Publications & Projects
-My research has been recognized in various academic circles, and I'm currently awaiting the review of our paper on the ECCO project. My academic projects include work on multimodal visual reasoning, multi-table question answering, and detecting LLM-generated text in multilingual and multi-domain settings. These projects have allowed me to apply my skills to real-world problems and contribute to the advancement of AI technology.
+This semester, I'm also working as a **Teaching Assistant** for the graduate-level course **11-777: Multimodal Machine Learning** at CMU.
+
 
 ### Skills & Interests
 I’m proficient in languages like Python, Golang, and C++, and have extensive experience with libraries and frameworks such as PyTorch, TensorFlow, Keras, Langchain, Scikit-Learn, and Huggingface. My expertise also extends to databases and message-brokers like MongoDB, Redis, and RabbitMQ.
@@ -34,5 +34,5 @@ I’m proficient in languages like Python, Golang, and C++, and have extensive e
 ### Let’s Connect!
 I’m passionate about the transformative power of AI and am always open to collaborations, discussions, and new challenges. Whether it’s about improving code generation efficiency, enhancing natural language understanding, or developing novel multimodal AI systems, I’m excited to explore the possibilities that lie ahead.
 
-Feel free to explore my [projects and publications](https://arxiv.org/abs/2407.14044) and connect with me on [LinkedIn](https://www.linkedin.com/in/siddhant-waghjale/). Let’s discuss AI, research opportunities, or potential collaborations!
+Feel free to explore my projects and connect with me on [LinkedIn](https://www.linkedin.com/in/siddhant-waghjale/). Let’s discuss AI, research opportunities, or potential collaborations!
 
