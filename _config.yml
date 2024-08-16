@@ -12,7 +12,7 @@ title                    : "Siddhant Waghjale"
 title_separator          : "-"
 name                     : &name "Siddhant Waghjale"
 description              : &description "personal description"
-url                      : https://https://siddhantwaghjale.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://siddhantwaghjale.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "siddhantwaghjale/siddhantwaghjale.github.io"
 
@@ -21,7 +21,7 @@ repository               : "siddhantwaghjale/siddhantwaghjale.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile_2.png"
   name             : "Siddhant Waghjale"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
