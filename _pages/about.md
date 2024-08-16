@@ -25,7 +25,7 @@ Prior to joining CMU, I spent three years as a Machine Learning Research Enginee
 
 Most recently, I interned at **Tesla's Autopilot** division in Palo Alto, where I developed an **AI-Oncall ChatBot** that resolved 50% of user queries without human intervention, significantly reducing the workload on human engineers. I also enhanced the performance of Tesla’s Autopilot SDK build efficiency by improving caching logic, achieving a 100x reduction in download and extraction time.
 
-This semester, I'm also working as a **Teaching Assistant** for the graduate-level course **11-777: Multimodal Machine Learning** at CMU.
+I'm also working as a **Teaching Assistant** for the graduate-level course **11-777: Multimodal Machine Learning** at CMU during the Fall 2024 semester.
 
 
 ### Skills & Interests
